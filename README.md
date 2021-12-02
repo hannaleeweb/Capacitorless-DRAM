@@ -1,12 +1,12 @@
 # Polycrystalline-Silicon-MOSFET-Based Capacitorless DRAM With Grain Boundaries and Its Performances
 
 ABSTRACT In this work, a capacitorless one-transistor dynamic random access memory (1T-DRAM) based
-on a polycrystalline silicon (poly-Si) metal_oxide_semiconductor _eld-effect transistor was designed and
-analyzed through a technology computer-aided design (TCAD) simulation. A poly-Si thin _lm was utilized
+on a polycrystalline silicon (poly-Si) metal_oxide_semiconductor field-effect transistor was designed and
+analyzed through a technology computer-aided design (TCAD) simulation. A poly-Si thin film was utilized
 within the device because of several advantages, including its low fabrication cost and the feasibility of its
 use in high-density three-dimensional (3D) memory arrays. An asymmetric dual-gate structure is proposed
 to perform the write ``1'' operation and achieve high retention characteristics. The proposed 1T-DRAM cell
-demonstrates a high sensing margin of 8.73 _A/_m and a high retention time of 704.4 ms compared to
+demonstrates a high sensing margin of 8.73 uA/um and a high retention time of 704.4 ms compared to
 previously reported 1T-DRAMs, even at a high temperature. In addition, the effect of grain boundaries on
 the memory performance of the proposed device was investigated, and the results validated the excellent
 reliability of its retention characteristics even in the presence of grain boundaries (>64 ms at T D 358 K).
