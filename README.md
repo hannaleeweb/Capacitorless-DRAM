@@ -15,7 +15,7 @@ INDEX TERMS Polycrystalline silicon, one-transistor dynamic random-access memory
 Metal oxide semiconductor field-effect transistor, one transistor dynamic random-access memory, dual-
 gate.
 
-I. INTRODUCTION
+# I. INTRODUCTION
 Capacitorless one-transistor dynamic random-access memory (1T-DRAM) has attracted a great deal of attention as a substitute for conventional one-transistor one-capacitor (1T-1C) DRAM. Given the difficulty of capacitor fabrication, the researchers have proposed the 1T-DRAM, which eliminate the need for capacitor altogether as a substitute for the conventional DRAM. The 1T-DRAM does not use an external capacitor, and instead relies on the principle of floating body effect. 1T-DRAMs have the advantage of simple fabrication and excellent compatibility with logic devices [1]-[11]. However, the smaller dimensions of these devices tend to limit their retention characteristics because of the stronger electric field between the body and the source/drain junctions. The stronger electric field increases the recombination/generation rate of excess holes, and the down-scaled 1T-DRAMs have the short retention time [12]. Therefore, 3D memory arrays can be a solution to increase the retention time of 1T-DRAMs. 1T-DRAMs based on polycrystalline silicon (poly-Si) have attracted attention due to the feasibility of obtaining high- density 3D memory arrays. Poly-Si-based transistors have previously been employed in 3D memory technology because of their significant advantages related to integrated fabrication technology [13]-[15].
 
 In this work, a poly-Si metal oxide semiconductor field effect transistor (MOSFET) based 1T-DRAM cell with
